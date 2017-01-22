@@ -18,6 +18,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 	npm run electron
 
+For more information go the accompanying [tutorial on techiediaries](http://www.techiediaries.com/github-electron/electron-angular2-cli)
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class`.
